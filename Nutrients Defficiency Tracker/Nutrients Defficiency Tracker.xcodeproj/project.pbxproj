@@ -1,0 +1,582 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		E61862F12E71D3F400483776 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E61862DB2E71D3F200483776 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E61862E22E71D3F200483776;
+			remoteInfo = "Nutrients Defficiency Tracker";
+		};
+		E61862FB2E71D3F400483776 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E61862DB2E71D3F200483776 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E61862E22E71D3F200483776;
+			remoteInfo = "Nutrients Defficiency Tracker";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E61862E32E71D3F200483776 /* Nutrients Defficiency Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nutrients Defficiency Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E61862F02E71D3F400483776 /* Nutrients Defficiency TrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nutrients Defficiency TrackerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E61862FA2E71D3F400483776 /* Nutrients Defficiency TrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nutrients Defficiency TrackerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		E61862E52E71D3F200483776 /* Nutrients Defficiency Tracker */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Nutrients Defficiency Tracker";
+			sourceTree = "<group>";
+		};
+		E61862F32E71D3F400483776 /* Nutrients Defficiency TrackerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Nutrients Defficiency TrackerTests";
+			sourceTree = "<group>";
+		};
+		E61862FD2E71D3F400483776 /* Nutrients Defficiency TrackerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Nutrients Defficiency TrackerUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E61862E02E71D3F200483776 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E61862ED2E71D3F400483776 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E61862F72E71D3F400483776 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E61862DA2E71D3F200483776 = {
+			isa = PBXGroup;
+			children = (
+				E61862E52E71D3F200483776 /* Nutrients Defficiency Tracker */,
+				E61862F32E71D3F400483776 /* Nutrients Defficiency TrackerTests */,
+				E61862FD2E71D3F400483776 /* Nutrients Defficiency TrackerUITests */,
+				E61862E42E71D3F200483776 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E61862E42E71D3F200483776 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E61862E32E71D3F200483776 /* Nutrients Defficiency Tracker.app */,
+				E61862F02E71D3F400483776 /* Nutrients Defficiency TrackerTests.xctest */,
+				E61862FA2E71D3F400483776 /* Nutrients Defficiency TrackerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E61862E22E71D3F200483776 /* Nutrients Defficiency Tracker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E61863042E71D3F400483776 /* Build configuration list for PBXNativeTarget "Nutrients Defficiency Tracker" */;
+			buildPhases = (
+				E61862DF2E71D3F200483776 /* Sources */,
+				E61862E02E71D3F200483776 /* Frameworks */,
+				E61862E12E71D3F200483776 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				E61862E52E71D3F200483776 /* Nutrients Defficiency Tracker */,
+			);
+			name = "Nutrients Defficiency Tracker";
+			packageProductDependencies = (
+			);
+			productName = "Nutrients Defficiency Tracker";
+			productReference = E61862E32E71D3F200483776 /* Nutrients Defficiency Tracker.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E61862EF2E71D3F400483776 /* Nutrients Defficiency TrackerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E61863072E71D3F400483776 /* Build configuration list for PBXNativeTarget "Nutrients Defficiency TrackerTests" */;
+			buildPhases = (
+				E61862EC2E71D3F400483776 /* Sources */,
+				E61862ED2E71D3F400483776 /* Frameworks */,
+				E61862EE2E71D3F400483776 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E61862F22E71D3F400483776 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E61862F32E71D3F400483776 /* Nutrients Defficiency TrackerTests */,
+			);
+			name = "Nutrients Defficiency TrackerTests";
+			packageProductDependencies = (
+			);
+			productName = "Nutrients Defficiency TrackerTests";
+			productReference = E61862F02E71D3F400483776 /* Nutrients Defficiency TrackerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E61862F92E71D3F400483776 /* Nutrients Defficiency TrackerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E618630A2E71D3F400483776 /* Build configuration list for PBXNativeTarget "Nutrients Defficiency TrackerUITests" */;
+			buildPhases = (
+				E61862F62E71D3F400483776 /* Sources */,
+				E61862F72E71D3F400483776 /* Frameworks */,
+				E61862F82E71D3F400483776 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E61862FC2E71D3F400483776 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E61862FD2E71D3F400483776 /* Nutrients Defficiency TrackerUITests */,
+			);
+			name = "Nutrients Defficiency TrackerUITests";
+			packageProductDependencies = (
+			);
+			productName = "Nutrients Defficiency TrackerUITests";
+			productReference = E61862FA2E71D3F400483776 /* Nutrients Defficiency TrackerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E61862DB2E71D3F200483776 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				KnownAssetTags = (
+					New,
+				);
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					E61862E22E71D3F200483776 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					E61862EF2E71D3F400483776 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = E61862E22E71D3F200483776;
+					};
+					E61862F92E71D3F400483776 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = E61862E22E71D3F200483776;
+					};
+				};
+			};
+			buildConfigurationList = E61862DE2E71D3F200483776 /* Build configuration list for PBXProject "Nutrients Defficiency Tracker" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E61862DA2E71D3F200483776;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = E61862E42E71D3F200483776 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E61862E22E71D3F200483776 /* Nutrients Defficiency Tracker */,
+				E61862EF2E71D3F400483776 /* Nutrients Defficiency TrackerTests */,
+				E61862F92E71D3F400483776 /* Nutrients Defficiency TrackerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E61862E12E71D3F200483776 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E61862EE2E71D3F400483776 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E61862F82E71D3F400483776 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E61862DF2E71D3F200483776 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E61862EC2E71D3F400483776 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E61862F62E71D3F400483776 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E61862F22E71D3F400483776 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E61862E22E71D3F200483776 /* Nutrients Defficiency Tracker */;
+			targetProxy = E61862F12E71D3F400483776 /* PBXContainerItemProxy */;
+		};
+		E61862FC2E71D3F400483776 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E61862E22E71D3F200483776 /* Nutrients Defficiency Tracker */;
+			targetProxy = E61862FB2E71D3F400483776 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E61863022E71D3F400483776 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E61863032E71D3F400483776 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E61863052E71D3F400483776 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Nutrients Defficiency Tracker/Nutrients Defficiency Tracker.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69Z7K68S87;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Nutrients-Defficiency-Tracker-Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "This app needs permission to save your micronutrition information in-app for defficiency / overconsumption level detection.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This app needs permission to save your micronutrition information in-app for defficiency / overconsumption level detection.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Nutrients-Defficiency-Tracker";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E61863062E71D3F400483776 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Nutrients Defficiency Tracker/Nutrients Defficiency Tracker.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69Z7K68S87;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Nutrients-Defficiency-Tracker-Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "This app needs permission to save your micronutrition information in-app for defficiency / overconsumption level detection.";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "This app needs permission to save your micronutrition information in-app for defficiency / overconsumption level detection.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Nutrients-Defficiency-Tracker";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E61863082E71D3F400483776 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69Z7K68S87;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Nutrients-Defficiency-TrackerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nutrients Defficiency Tracker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Nutrients Defficiency Tracker";
+			};
+			name = Debug;
+		};
+		E61863092E71D3F400483776 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69Z7K68S87;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Nutrients-Defficiency-TrackerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nutrients Defficiency Tracker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Nutrients Defficiency Tracker";
+			};
+			name = Release;
+		};
+		E618630B2E71D3F400483776 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69Z7K68S87;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Nutrients-Defficiency-TrackerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Nutrients Defficiency Tracker";
+			};
+			name = Debug;
+		};
+		E618630C2E71D3F400483776 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 69Z7K68S87;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.Nutrients-Defficiency-TrackerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Nutrients Defficiency Tracker";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E61862DE2E71D3F200483776 /* Build configuration list for PBXProject "Nutrients Defficiency Tracker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E61863022E71D3F400483776 /* Debug */,
+				E61863032E71D3F400483776 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E61863042E71D3F400483776 /* Build configuration list for PBXNativeTarget "Nutrients Defficiency Tracker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E61863052E71D3F400483776 /* Debug */,
+				E61863062E71D3F400483776 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E61863072E71D3F400483776 /* Build configuration list for PBXNativeTarget "Nutrients Defficiency TrackerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E61863082E71D3F400483776 /* Debug */,
+				E61863092E71D3F400483776 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E618630A2E71D3F400483776 /* Build configuration list for PBXNativeTarget "Nutrients Defficiency TrackerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E618630B2E71D3F400483776 /* Debug */,
+				E618630C2E71D3F400483776 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E61862DB2E71D3F200483776 /* Project object */;
+}
